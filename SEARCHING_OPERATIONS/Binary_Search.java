@@ -19,9 +19,10 @@ public class Binary_Search {
 			} else {
 				startvar = midvar + 1;
 			}
-		}
+	}//added some extraa comments for kannu don...
 		if (!found) {
 			System.out.println("Element not found!!");
 		}
 	}
 }
+
